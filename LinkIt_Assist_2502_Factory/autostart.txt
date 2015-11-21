@@ -1,0 +1,2 @@
+[autostart]
+app1=C:\LinkIt_Assist_Test_default_BT1.vxp
