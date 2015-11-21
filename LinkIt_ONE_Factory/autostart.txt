@@ -1,0 +1,2 @@
+[autostart]
+App=C:\MRE\linkit_one_test_code_v1_2.cpp.vxp
