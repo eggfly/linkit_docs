@@ -1,0 +1,2 @@
+[autostart]
+App=C:\MRE\XadowPhoneKitV6_2_default.vxp
